@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Hi, I'm Akshay 👋  <br>Aspiring Full Stack Java Developer <br><br>💻 Tech Stack:<br>- Java, OOP, JDBC<br>- HTML, CSS, JavaScript<br>- MySQL <br><br>📌 Goals:<br>- Become job-ready full stack developer in 5 months<br>- Build real-world projects<br><br>📫 Contact:<br>- LinkedIn: <www.linkedin.com/in/akshay-bandenavaru>
 
 
